@@ -62,7 +62,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'full_auth.wsgi.app'
+WSGI_APPLICATION = 'vercel_app.wsgi.app'
 
 
 DATABASES = {
